@@ -27,5 +27,5 @@ SpaceGame is a 2D-style space adventure game where a character embarks on a cosm
 
 ## Gameplay Video
 
-Check out the gameplay video on [YouTube]([https://www.youtube.com/watch?v=yourvideourl](https://youtu.be/8K8kWErxeG4)) to get a sneak peek of what SpaceGame has to offer!
+Check out the gameplay video on [YouTube](https://youtu.be/8K8kWErxeG4) to get a sneak peek of what SpaceGame has to offer!
 
