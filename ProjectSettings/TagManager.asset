@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Logic
+  - Platform5
+  - Spike1
+  - Spike2
+  - Spike3
+  - Spike4
+  - Spike5
+  - Spike6
+  - Spike7
+  - Spike8
+  - Spike9
+  - Spike10
+  - Spike11
+  - End
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Box
+  - Ladder
+  - Portal
+  - Spikes
+  - Player
+  - Fall
+  - Portal Back
+  - Activate Leap of faith
+  - Deactivate Leap of faith
+  - Plat 5
+  - Plat 1
+  - AnotherFaith
+  - Trust
+  - TrustPlat
+  - TrustPlat2
+  - SpikePlat
+  - SpikeReset
+  - Bossfight
+  - Instructions
+  - TheEnd
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 2824368357
+    locked: 0
+  - name: MidGround
+    uniqueID: 747311853
+    locked: 0
+  - name: ForeGround
+    uniqueID: 736845947
+    locked: 0
