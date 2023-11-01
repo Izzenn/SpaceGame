@@ -5,7 +5,7 @@ SpaceGame is a 2D-style space adventure game where a character embarks on a cosm
 ## Screenshots
 
 - Opening Screen
-  ![Opening Screen](opening_screen.png)
+  ![Opening Screen](openingscreen1.png)
   
 - Level 1
   ![Level 1](level1.png)
