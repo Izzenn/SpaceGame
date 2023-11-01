@@ -22,6 +22,3 @@ SpaceGame is a 2D-style space adventure game where a character embarks on a cosm
 - Three progressively challenging levels.
 - Epic boss battle in Level 3.
 
-## How to Play
-
-1. Clone the repository:
